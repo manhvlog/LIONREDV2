@@ -1,5 +1,7 @@
 <div align=center>
 # SOMITIMES DELETED
+# Hưỡng Dẫn SETUP !
+ git clone
 
  
  
