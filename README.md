@@ -1,5 +1,5 @@
 # Hưỡng Dẫn Setup Tool
-[Lưu Ý Cần Root Để Chạy]<br/>
+                            [Lưu Ý Cần Root Để Chạy]<br/>
  Vào Google Shell Và Gõ<br/>
  git clone https://github.com/HoangMods/LIONREDV2.git<br/>
  cd LIONREDV2<br/>
