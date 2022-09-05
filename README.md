@@ -6,6 +6,7 @@
 # Hưỡng Dẫn Chạy
  cd LIONREDV2<br/>
  python LionRed2.py<br/>
+ Done !!!
  
  
  
