@@ -1,4 +1,4 @@
-# Hưỡng Dẫn Setup !
+# Hưỡng Dẫn Setup 
  Vào Google Shell Và Gõ<br/>
  git clone https://github.com/HoangMods/LIONREDV2.git<br/>
  cd LIONREDV2<br/>
@@ -6,7 +6,7 @@
 # Hưỡng Dẫn Chạy
  cd LIONREDV2<br/>
  python LionRed2.py<br/>
- # Chạy Lệnh
+ # Lệnh Để Vào DDos
  lionred<br/>
  Url [Dán Web Muốn DDos]<br/>
  Thread [Nhập Từ 1-1000000000]<br/>
