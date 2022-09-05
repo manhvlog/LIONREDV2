@@ -8,7 +8,13 @@
  python LionRed2.py<br/>
  # Chạy Lệnh
  lionred<br/>
- Done !!!
+ Url [Dán Web Muốn DDos]<br/>
+ Thread [Nhập Từ 1-1000000000]<br/>
+ Time [Thời Gian DDos]<br/>
+ 
+ 
+ 
+ DONE !!!
  
  
  
