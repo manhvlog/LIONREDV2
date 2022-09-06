@@ -36,6 +36,9 @@
  Url [Dán Web Muốn DDos]<br/>
  Thread [Nhập Từ 1-1000000000]<br/>
  Time [Thời Gian DDos]<br/>
+# Cách Vào Root Google Shell
+    sudo su
+    
 # Contact Me
  Facebook:https://www.facebook.com/nguyenmacduyhoang<br/>
  Zalo:https://zalo.me/hoangvn123<br/>
