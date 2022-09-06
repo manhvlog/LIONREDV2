@@ -38,6 +38,7 @@
  Time [Thời Gian DDos]<br/>
 # Cách Vào Root Google Shell
     sudo su
+    sudo apt update
     
 # Contact Me
  Facebook:https://www.facebook.com/nguyenmacduyhoang<br/>
